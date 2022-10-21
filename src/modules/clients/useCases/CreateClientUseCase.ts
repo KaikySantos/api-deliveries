@@ -29,6 +29,6 @@ export class CreateClientUseCase {
       }
     });
 
-    return client
+    return client;
   }
 }
